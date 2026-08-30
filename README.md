@@ -2,7 +2,7 @@
 
 A landing page concept for a strength-first training studio in Bandra West, Mumbai — the kind of gym that tracks your numbers instead of just counting your visits.
 
-🔗 **Live:** [REPLACE_WITH_ACTUAL_URL]
+🔗 **Live:** https://project-himawari.akshaycodecrafter.workers.dev/
 
 ## Preview
 
