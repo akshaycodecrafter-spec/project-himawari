@@ -1,0 +1,29 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node (in case assets tooling is added later)
+node_modules/
+
+# Env / config
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+build/
